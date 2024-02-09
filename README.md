@@ -6,7 +6,7 @@ I'm a Smart Contract Developer and Co-Founder of Cexles. I Spend most of time co
 
 [![Linkedin Badge](https://img.shields.io/badge/-Roman_Yarinski-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-yarinski/) [![Mail Badge](https://img.shields.io/badge/-299442676t@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:299442676t@gmail.com) [![DevPost Badge](https://img.shields.io/badge/-RomanYarynski-e84393?style=flat&labelColor=e84393&logo=devpost)](https://devpost.com/Roman-Yarinski)
 
-- 🔭 I’m currently working at @CexlesFinance
+- 🔭 I’m currently working at 4ire
 - 🤔 I’m looking for interesting projects that need a **Solidity**/**Web3 developer** with a wealth of experience.
 - 📫 How to reach me: 299442676t@gmail.com
 
